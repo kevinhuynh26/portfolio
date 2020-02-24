@@ -10,4 +10,4 @@
 
 ####In-game UI mock-up
 
-![revlostcave](https://raw.githubusercontent.com/kevinhuynh26/portfolio/master/ReverenceLost/UI75.jpg)
+![revlostUI](https://raw.githubusercontent.com/kevinhuynh26/portfolio/master/ReverenceLost/UI75.png)
